@@ -1,2 +1,2 @@
 # work-journal
-Blog for keeping track of professional projects and collaborations
+Blog for keeping track of professional projects and collaborations.
